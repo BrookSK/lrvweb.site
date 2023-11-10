@@ -1,2613 +1,722 @@
-<!-- Banner Slider Section starts -->
-
-<div class="banner" id="home">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-lg-6">
-
-					<!-- Banner Content Start -->
-
-					<div class="banner-content">
-
-						<h2 class="cd-headline clip">
-
-							<span class="before-heading">Oláa! Meu nome é Lucas Vacari e eu sou </span>
-
-							<span class="cd-words-wrapper">
-
-								<b class="is-visible">Desenvolvedor Web</b>
-
-								<b>Desenvolvedor PHP</b>
-
-								<b>Desenvolvedor Full Stack</b>
-
-							</span>
-
-						</h2>
-
-						<p>Olá! Meu nome é Lucas Rodrigues Vacari, tenho 18 anos e estou animado em compartilhar um
-
-							pouco sobre mim!</p>
-
-
-
-						<a href="<?php echo DIRDOWN.'Curriculo_Lucas_Atualizado.pdf' ?>" download="Curriculo_Lucas_Atualizado.pdf"
-
-							class="btn-download">Download CV</a>
-
-					</div>
-
-					<!-- Banner Content End -->
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</div>
-
-	<!-- Banner Slider Section ends -->
-
-
-
-	<!-- About us Section Starts -->
-
-	<section class="about-us" id="about">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<!-- Section title start -->
-
-					<div class="section-title">
-
-						<h2>Um pouco sobre mim</h2>
-
-						<p>Conheça a minha história</p>
-
-					</div>
-
-					<!-- Section title end -->
-
-				</div>
-
-			</div>
-
-
-
-			<div class="row">
-
-
-
-				<div class="col-lg-4">
-
-					<!--
-
-					# About image start
-
-					<div class="about-image wow fadeInLeft" data-wow-delay="0.3s">
-
-						<img src="<?php //echo DIRIMG.'about.jpg' ?>" alt="Lucas Vacari" />
-
-					</div>
-
-					<br>
-
-					<br>
-
-					-->
-
-					<!-- About image start 2
-
-					<div class="about-image wow fadeInLeft" data-wow-delay="0.3s">
-
-						<img src="<?php echo DIRIMG.'about2.jpg' ?>" alt="Lucas Vacari e Beatriz, sua namorada." />
-
-					</div>-->
-
-                    <!-- About image start 3 -->
-
-					<div class="about-image wow fadeInLeft" data-wow-delay="0.3s">
-
-						<img src="<?php echo DIRIMG.'about3.jpg' ?>" alt="Manutenção de site." />
-
-					</div>
-
-					<!-- About image end -->
-
-				</div>
-
-
-
-				<div class="col-lg-8">
-
-					<!-- About Content start -->
-
-					<div class="about-content wow fadeInUp" data-wow-delay="0.8s">
-
-						<h3>Eu sou Lucas Rodrigues Vacari</h3>
-
-						<p>Eu sou um profissional dedicado e entusiasmado com desenvolvimento de sistemas, com uma
-
-							paixão pela criação de soluções inovadoras. Em setembro de 2023, abri minha própria MEI 
-
-                            e agora estou trabalhando como MEI - PJ nessa área. Com 18 anos de idade, possuo formação técnica
-
-							em Desenvolvimento de Sistemas pela Etec Philadelpho Gouveia Neto, e atualmente estou
-
-							cursando Análise e Desenvolvimento de Sistemas na UNIP.</p>
-
-
-
-						<p>Além do meu entusiasmo pela área de tecnologia, também tenho uma parte muito importante na
-
-							minha vida: meu namoro com a Beatriz há mais de 1 ano. Ela é uma pessoa incrível que me apoia em todas
-
-							as minhas conquistas e compartilhamos momentos muito bons juntos.</p>
-
-
-
-						<p>Tenho experiência em diversas linguagens de programação, como PHP, JAVA, C++, Python,
-
-							JavaScript, HTML e CSS, além de um conhecimento básico em C# .NET 6.0. Minha jornada inclui
-
-							projetos com desenvolvimento mobile em JAVA, assim como a utilização de bancos de dados como
-
-							SQL e MySQL. Sou familiarizado com o uso do GitHub e também possuo habilidades em trabalhar
-
-							com WordPress.</p>
-
-
-
-						<p>Minha sede de conhecimento me levou a explorar sistemas operacionais como o Windows (que
-
-							utilizo desde meu primeiro contato com um computador) e algumas distribuições do Linux,
-
-							incluindo Debian GNU, Ubuntu e Linux Mint edição Cinnamon. Tenho noções básicas de redes, o
-
-							que complementa minha formação em desenvolvimento de sistemas.</p>
-
-
-
-						<p>Sou uma pessoa focada em resultados e aprendi ao longo do tempo é a importância do trabalho
-
-							em equipe, acreditando que a colaboração é fundamental para alcançar soluções de software de
-
-							excelência. Tenho facilidade em aprender e estou sempre em busca de novos desafios para
-
-							aprimorar minhas habilidades.</p>
-
-
-
-						<p>Embora meu inglês seja básico, estou empenhado em melhorá-lo, reconhecendo sua importância no
-
-							cenário profissional atual.</p>
-
-
-
-						<p>Com uma visão clara de minha carreira em desenvolvimento de sistemas, estou ansioso para
-
-							contribuir com meu conhecimento e entusiasmo, e assim, continuar crescendo profissionalmente
-
-							em busca do sucesso.</p>
-
-
-
-						<ul>
-
-							<li><i class="flaticon-calendar"></i><b>Data de nascimento:</b> 22 de agosto de 2005</li>
-
-							<li><i class="flaticon-freelance"></i><b>Freelance:</b> Disponível</li>
-
-							<li><i class="flaticon-phone-call"></i><b>Phone:</b> (17) 99119-0528</li>
-
-							<li><i class="flaticon-placeholder"></i><b>Endereço:</b> Mirassol, São Paulo</li>
-
-							<li><i class="flaticon-email"></i><b>Email:</b> lucasrvacari9@gmail.com</li>
-
-							<li><i class="flaticon-flag"></i><b>Nacionalidade:</b> Brasileiro</li>
-
-							<!-- -->
-
-							<li><i class="flaticon-email"></i><b>Email-2:</b> lucasrvacari99@gmail.com</li>
-
-							<li><i class="flaticon-trophy"></i><b>Namoro:</b> +1 Ano de namoro</li>
-
-							
-
-						</ul>
-
-					</div>
-
-					<!-- About Content End -->
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</section>
-
-	<!-- About us Section Ends -->
-
-
-
-	<!-- Services Section Starts -->
-
-	<section class="services" id="services">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<!-- Section title start -->
-
-					<div class="section-title">
-
-						<h2>Meus Serviços</h2>
-
-						<p>Alguns dos serviços que eu ofereço</p>
-
-					</div>
-
-					<!-- Section title end -->
-
-				</div>
-
-			</div>
-
-
-
-			<div class="row">
-
-				<div class="col-md-4">
-
-					<!-- Service Single Start -->
-
-					<div class="service-single wow fadeInUp" data-wow-delay="0.3s">
-
-						<div class="icon-box">
-
-							<i class="flaticon-idea"></i>
-
-						</div>
-
-
-
-						<h3>Criação de imagens personalizadas</h3>
-
-						<p>É uma oferta que permite obter imagens únicas e exclusivas de acordo com suas necessidades e
-
-							preferências específicas. Essas imagens podem ser criadas para diversos fins, como
-
-							marketing, publicidade, mídias sociais, ilustrações, apresentações, sites, blogs e muito
-
-							mais.</p>
-
-					</div>
-
-					<!-- Service Single End -->
-
-				</div>
-
-
-
-				<div class="col-md-4">
-
-					<!-- Service Single Start -->
-
-					<div class="service-single wow fadeInUp" data-wow-delay="0.6s">
-
-						<div class="icon-box">
-
-							<i class="flaticon-translation"></i>
-
-						</div>
-
-
-
-						<h3>Desenvolvimento de Sites</h3>
-
-						<p>É um serviço que envolve a criação, construção e implementação de páginas e sites na
-
-							internet. Fundamental para empresas, empreendedores e indivíduos que desejam estabelecer sua
-
-							presença online, divulgar informações, vender produtos ou serviços e interagir com seu
-
-							público-alvo de forma eficaz na internet.</p>
-
-					</div>
-
-					<!-- Service Single End -->
-
-				</div>
-
-
-
-				<div class="col-md-4">
-
-					<!-- Service Single Start -->
-
-					<div class="service-single wow fadeInUp" data-wow-delay="0.9s">
-
-						<div class="icon-box">
-
-							<i class="flaticon-controls"></i>
-
-						</div>
-
-
-
-						<h3>Manutenções e Pequenas Edições em Sites</h3>
-
-						<p>Suporte contínuo oferecido após o lançamento de um site. permitindo tranquilidade, sabendo
-
-							que pode contar com a assistência sempre que surgirem problemas ou atualizações. Correções,
-
-							atualizações de conteúdo e pequenas alterações para melhorar ou atualizar o site de acordo
-
-							com as necessidades.</p>
-
-					</div>
-
-					<!-- Service Single End -->
-
-				</div>
-
-
-
-				<div class="col-md-4">
-
-					<!-- Service Single Start -->
-
-					<div class="service-single wow fadeInUp" data-wow-delay="1.2s">
-
-						<div class="icon-box">
-
-							<i class="flaticon-quality"></i>
-
-						</div>
-
-
-
-						<h3>E-mails Profissionais</h3>
-
-						<p>Utilizados para comunicação formal, troca de informações, agendamento de reuniões,
-
-							solicitações, propostas, entre outros. O uso dos e-mails profissionais é essencial para
-
-							manter uma comunicação eficiente e profissional no ambiente de trabalho contribuindo para
-
-							relacionamentos comerciais positivos.</p>
-
-					</div>
-
-					<!-- Service Single End -->
-
-				</div>
-
-
-
-				<div class="col-md-4">
-
-					<!-- Service Single Start -->
-
-					<div class="service-single wow fadeInUp" data-wow-delay="1.5s">
-
-						<div class="icon-box">
-
-							<i class="flaticon-growth"></i>
-
-						</div>
-
-
-
-						<h3>Hospedagem de Sites</h3>
-
-						<p>Esse serviço permite que indivíduos e empresas tornem seus sites acessíveis ao público na
-
-							internet. Em termos simples, a hospedagem de sites é como alugar um espaço virtual em
-
-							servidores conectados à internet, onde os arquivos, dados e conteúdos do site são
-
-							armazenados.</p>
-
-					</div>
-
-					<!-- Service Single End -->
-
-				</div>
-
-
-
-				<div class="col-md-4">
-
-					<!-- Service Single Start -->
-
-					<div class="service-single wow fadeInUp" data-wow-delay="1.8s">
-
-						<div class="icon-box">
-
-							<i class="flaticon-support"></i>
-
-						</div>
-
-
-
-						<h3>Suporte Personalizado</h3>
-
-						<p>Suporte técnico personalizado e direcionado a necessidades específicas, esse suporte é
-
-							oferecido quando uma situação exige atenção individualizada, além do suporte padrão ou
-
-							genérico. Visa atender a requisitos individuais e específicos, fornecendo assistência
-
-							personalizada e soluções sob medida.</p>
-
-					</div>
-
-					<!-- Service Single End -->
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</section>
-
-	<!-- Services Section Ends -->
-
-
-
-	<!-- My Resume Section Starts -->
-
-	<section class="my-resume" id="resume">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<!-- Section title start -->
-
-					<div class="section-title">
-
-						<h2>Minhas Skills</h2>
-
-						<p>Algumas das minhas principais skills</p>
-
-					</div>
-
-					<!-- Section title end -->
-
-				</div>
-
-			</div>
-
-
-
-			<div class="row mb-5 pb-5">
-
-				<div class="col-md-6">
-
-					<div class="experience">
-
-						<h3 class="sub-title"><i class="fa fa-briefcase"></i> Experiência</h3>
-
-
-
-						<!-- Experience Slider Start -->
-
-						<div class="swiper-container experience-slider">
-
-							<div class="swiper-wrapper">
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>02/2022 - 11/2022</h5>
-
-										<h4>Teen Invest (Projeto pessoal - TCC ETEC)</h4>
-
-										<p>Desenvolvimento de um site de conclusão de curso (TCC) onde o tema do projeto
-
-											era um site para educação financeira de adolescentes. Fui o principal
-
-											desenvolvedor desse projeto.</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>09/2022 - 09/2022</h5>
-
-										<h4>Rositex (Projeto pessoal)</h4>
-
-										<p>Criação de uma loja virtual (E-commerce) em WordPress com o WooCommerce.</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>03/2023 - 09/2023</h5>
-
-										<h4>Estagiário na empresa: MW Online (Pequena/média empresa)</h4>
-
-										<p>Estágio na MW Online de março de 2023 até setembro de 2023, buscando aprendizado em desenvolvimento web (WordPress e PHP), gerenciamento de servidores e buscando constantemente novos conhecimentos. Ótima equipe e ambiente de trabalho em São José do Rio Preto - SP.</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>09/2023 - Atualmente</h5>
-
-										<h4>Atuando como PJ e trabalhando como MEI</h4>
-
-										<p>Atuando como pessoa jurídica, trabalhando como Microempreendedor Individual e prestando serviços para empresas com atuação na programação (Prestando serviços que incluem desenvolvimento PHP, WordPress, Nuvemshop, C#, JavaScript, CSS, entre outros). Atuando com preferencia de local remoto e/ou na região de São José do Rio Preto - SP.</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-							</div>
-
-
-
-							<!-- Experience Pagination Start -->
-
-							<div class="experience-pagination"></div>
-
-							<!-- Experience Pagination Start -->
-
-						</div>
-
-						<!-- Experience Slider Start -->
-
-					</div>
-
-				</div>
-
-
-
-				<div class="col-md-6">
-
-					<div class="education">
-
-						<h3 class="sub-title"><i class="fa fa-graduation-cap"></i> Escolaridade / Cursos</h3>
-
-
-
-						<!-- Education Slider Start -->
-
-						<div class="swiper-container education-slider">
-
-							<div class="swiper-wrapper">
-
-								<!-- Experience Slide start
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>2020</h5>
-
-										<h4>Excel 2010 - Básico</h4>
-
-										<p>Fundação Bradesco - Escola Virtual</p>
-
-									</div>
-
-								</div> -->
-
-								<!-- Experience Slide end -->
-
-
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>2021 - 2022</h5>
-
-										<h4>Técnico em Desenvolvimento de Sistemas</h4>
-
-										<p>Etec Philadelpho Gouveia Neto</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>2022</h5>
-
-										<h4>Ensino Médio Completo</h4>
-
-										<p>Escola Estadual Anísio José Moreira</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>2022</h5>
-
-										<h4>Expansão no Mercado e Vendas</h4>
-
-										<p>SEBRAE</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>2022</h5>
-
-										<h4>Marketing digital - planejar para vender pela Internet</h4>
-
-										<p>SEBRAE</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-
-
-								<!-- Experience Slide start -->
-
-								<div class="swiper-slide">
-
-									<div class="experience-single">
-
-										<h5>2023 - 2025</h5>
-
-										<h4>Superior Tecnólogo em Análise e Desenvolvimento de Sistemas</h4>
-
-										<p>UNIP - Universidade Paulista</p>
-
-									</div>
-
-								</div>
-
-								<!-- Experience Slide end -->
-
-							</div>
-
-
-
-							<!-- Education Pagination Start -->
-
-							<div class="education-pagination"></div>
-
-							<!-- Education Pagination Start -->
-
-						</div>
-
-						<!-- Education Slider End -->
-
-					</div>
-
-				</div>
-
-			</div>
-
-
-
-			<div class="row">
-
-				<div class="col-md-6">
-
-					<div class="skill">
-
-						<h3 class="sub-title"><i class="fa fa-star-o"></i>Minhas Skills</h3>
-
-
-
-						<!-- Skill Content Start -->
-
-						<div class="skill-content">
-
-							<div class="row">
-
-								<div class="col-md-6">
-
-									<!-- Skill Single Start -->
-
-									<div class="skill-single">
-
-										<h5>HTML 5</h5>
-
-										<div class="skill-ratting">
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star-o"></i>
-
-										</div>
-
-									</div>
-
-									<!-- Skill Single End -->
-
-								</div>
-
-
-
-								<div class="col-md-6">
-
-									<!-- Skill Single Start -->
-
-									<div class="skill-single">
-
-										<h5>PHP</h5>
-
-										<div class="skill-ratting">
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star-half-o"></i>
-
-											<i class="fa fa-star-o"></i>
-
-										</div>
-
-									</div>
-
-									<!-- Skill Single End -->
-
-								</div>
-
-
-
-								<div class="col-md-6">
-
-									<!-- Skill Single Start -->
-
-									<div class="skill-single">
-
-										<h5>C#</h5>
-
-										<div class="skill-ratting">
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star-o"></i>
-
-											<i class="fa fa-star-o"></i>
-
-											<i class="fa fa-star-o"></i>
-
-										</div>
-
-									</div>
-
-									<!-- Skill Single End -->
-
-								</div>
-
-
-
-								<div class="col-md-6">
-
-									<!-- Skill Single Start -->
-
-									<div class="skill-single">
-
-										<h5>WP/Elementor</h5>
-
-										<div class="skill-ratting">
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star-half-o"></i>
-
-											<i class="fa fa-star-o"></i>
-
-										</div>
-
-									</div>
-
-									<!-- Skill Single End -->
-
-								</div>
-
-
-
-								<div class="col-md-6">
-
-									<!-- Skill Single Start -->
-
-									<div class="skill-single">
-
-										<h5>Python</h5>
-
-										<div class="skill-ratting">
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star-o"></i>
-
-											<i class="fa fa-star-o"></i>
-
-											<i class="fa fa-star-o"></i>
-
-										</div>
-
-									</div>
-
-									<!-- Skill Single End -->
-
-								</div>
-
-
-
-								<div class="col-md-6">
-
-									<!-- Skill Single Start -->
-
-									<div class="skill-single">
-
-										<h5>Git/GitHub</h5>
-
-										<div class="skill-ratting">
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star"></i>
-
-											<i class="fa fa-star-half-o"></i>
-
-											<i class="fa fa-star-o"></i>
-
-										</div>
-
-									</div>
-
-									<!-- Skill Single End -->
-
-								</div>
-
-							</div>
-
-						</div>
-
-						<!-- Skill Content End -->
-
-					</div>
-
-				</div>
-
-
-
-				<div class="col-md-6">
-
-					<div class="counter-stats">
-
-						<h3 class="sub-title"><i class="fa fa-heart"></i>Projetos</h3>
-
-						<div class="counter-content">
-
-							<div class="row">
-
-								<div class="col-md-6">
-
-									<!-- Counter Single Start -->
-
-									<div class="counter-single">
-
-										<div class="icon-box">
-
-											<i class="flaticon-employee"></i>
-
-										</div>
-
-										<h4 class="counter">18</h4>
-
-										<p>Projetos Dev Web</p>
-
-									</div>
-
-									<!-- Counter Single End -->
-
-								</div>
-
-
-
-								<div class="col-md-6">
-
-									<!-- Counter Single Start -->
-
-									<div class="counter-single">
-
-										<div class="icon-box">
-
-											<i class="flaticon-trophy"></i>
-
-										</div>
-
-										<h4 class="counter">10</h4>
-
-										<p>Sites WordPress</p>
-
-									</div>
-
-									<!-- Counter Single End -->
-
-								</div>
-
-
-
-								<div class="col-md-6">
-
-									<!-- Counter Single Start -->
-
-									<div class="counter-single">
-
-										<div class="icon-box">
-
-											<i class="flaticon-award"></i>
-
-										</div>
-
-										<h4 class="counter">2</h4>
-
-										<p>Projetos JAVA</p>
-
-									</div>
-
-									<!-- Counter Single End -->
-
-								</div>
-
-
-
-								<div class="col-md-6">
-
-									<!-- Counter Single Start -->
-
-									<div class="counter-single">
-
-										<div class="icon-box">
-
-											<i class="flaticon-customer"></i>
-
-										</div>
-
-										<h4 class="counter">+5</h4>
-
-										<p>Anos de estudos</p>
-
-									</div>
-
-									<!-- Counter Single End -->
-
-								</div>
-
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</section>
-
-	<!-- My Resume Section Ends -->
-
-
-
-	<!-- Portfolio Section Starts -->
-
-	<section class="portfolio" id="portfolio">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<!-- Section title start -->
-
-					<div class="section-title">
-
-						<h2>Portfolio</h2>
-
-						<p>Veja alguns dos meus trabalhos</p>
-
-					</div>
-
-					<!-- Section title end -->
-
-				</div>
-
-			</div>
-
-
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<!-- Portfolio Filter list start -->
-
-					<div class="filter-container portfolio-nav">
-
-						<ul class="list-inline filter">
-
-							<li><a href="#" class="active-portfolio" data-filter="*">Todos </a></li>
-
-							<li><a href="#" data-filter=".ecommerce">E-Commerce</a></li>
-
-							<li><a href="#" data-filter=".one">One Page</a></li>
-
-							<li><a href="#" data-filter=".institucional">Institucional</a></li>
-
-							<li><a href="#" data-filter=".outros">Outros</a></li>
-
-						</ul>
-
-					</div>
-
-					<!-- Portfolio Filter list End -->
-
-				</div>
-
-			</div>
-
-
-
-			<div class="row portfolio-boxes">
-
-				<!-- Single Portfolio starts -->
-
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box ecommerce">
-
-					<div class="single-portfolio">
-
-						<a href="#popup-1" class="has-popup">
-
-							<img src="<?php echo DIRIMG.'rositex.jpg' ?>" class="Portfolio Image" alt="Site e-commerce Rositex" />
-
-							<div class="single-portfolio-overlay">
-
-								<h2>Rositex</h2>
-
-								<h3>E-Commerce</h3>
-
-							</div>
-
-						</a>
-
-					</div>
-
-					<div id="popup-1" class="popup-box mfp-fade mfp-hide">
-
-						<div class="content">
-
-							<div class="image">
-
-								<img src="<?php echo DIRIMG.'rositex.jpg' ?>" alt="Site e-commerce Rositex">
-
-							</div>
-
-							<div class="desc">
-
-								<h4>Rositex</h4>
-
-								<h5><i class="fa fa-folder"></i> E-Commerce</h5>
-
-								<p>
-
-									Criação de uma loja virtual (E-commerce) em WordPress com o WooCommerce.
-
-								</p>
-
-								<a href="https://drive.google.com/drive/folders/12K1ZEXNaiZAieU3AilHZ7VQffviV16TU"
-
-									class="btn-view-project" target="_blank">Ver o Projeto</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-				<!-- Single Portfolio Ends -->
-
-
-
-				<!-- Single Portfolio starts -->
-
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box institucional">
-
-					<div class="single-portfolio">
-
-						<a href="#popup-3" class="has-popup">
-
-							<img src="<?php echo DIRIMG.'tcc.jpg' ?>" class="Portfolio Image" alt="Projeto do meu TCC" />
-
-							<div class="single-portfolio-overlay">
-
-								<h2>Teen Invest</h2>
-
-								<h3>Site Institucional</h3>
-
-							</div>
-
-						</a>
-
-					</div>
-
-					<div id="popup-3" class="popup-box mfp-fade mfp-hide">
-
-						<div class="content">
-
-							<div class="image">
-
-								<img src="<?php echo DIRIMG.'tcc.jpg' ?>" alt="Projeto do meu TCC">
-
-							</div>
-
-							<div class="desc">
-
-								<h4>Teen Invest (Projeto pessoal - TCC ETEC)</h4>
-
-								<h5><i class="fa fa-folder"></i> Site Institucional</h5>
-
-								<p>
-
-									Desenvolvimento de um site de conclusão de curso (TCC) onde o tema do projeto era um
-
-									site para educação financeira de adolescentes. Fui o principal desenvolvedor desse
-
-									projeto.
-
-								</p>
-
-								<a href="https://teenivest.epizy.com/" class="btn-view-project" target="_blank">Ver o
-
-									Projeto</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-				<!-- Single Portfolio Ends -->
-
-
-
-				<!-- Single Portfolio starts -->
-
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box one">
-
-					<div class="single-portfolio">
-
-						<a href="#popup-4" class="has-popup">
-
-							<img src="<?php echo DIRIMG.'port.jpg' ?>" class="Portfolio Image" alt="Site de portfolio antigo" />
-
-							<div class="single-portfolio-overlay">
-
-								<h2>Primeiro site de portfolio</h2>
-
-								<h3>One Page</h3>
-
-							</div>
-
-						</a>
-
-					</div>
-
-					<div id="popup-4" class="popup-box mfp-fade mfp-hide">
-
-						<div class="content">
-
-							<div class="image">
-
-								<img src="<?php echo DIRIMG.'port.jpg' ?>" alt="Site de portfolio antigo">
-
-							</div>
-
-							<div class="desc">
-
-								<h4>Primeiro site de portfolio</h4>
-
-								<h5><i class="fa fa-folder"></i> One Page</h5>
-
-								<p>
-
-									Este foi o meu primeiro site de portfolio da minha vida e um projeto muito legal no
-
-									qual eu fiz muito rápido utilizando o Bootstrap.
-
-								</p>
-
-								<a href="https://brooksk.github.io" class="btn-view-project" target="_blank">Ver
-
-									Projeto</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-				<!-- Single Portfolio Ends -->
-
-
-
-				<!-- Single Portfolio starts -->
-
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box institucional">
-
-					<div class="single-portfolio">
-
-						<a href="#popup-6" class="has-popup">
-
-							<img src="<?php echo DIRIMG.'fincont.jpg' ?>" class="Portfolio Image" alt="Site Institucional Fincont Consultoria" />
-
-							<div class="single-portfolio-overlay">
-
-								<h2>Fincont Consultoria</h2>
-
-								<h3>Site Institucional</h3>
-
-							</div>
-
-						</a>
-
-					</div>
-
-					<div id="popup-6" class="popup-box mfp-fade mfp-hide">
-
-						<div class="content">
-
-							<div class="image">
-
-								<img src="<?php echo DIRIMG.'fincont.jpg' ?>" alt="Site Institucional Fincont Consultoria">
-
-							</div>
-
-							<div class="desc">
-
-								<h4>Fincont Consultoria</h4>
-
-								<h5><i class="fa fa-folder"></i> Site Institucional</h5>
-
-								<p>
-
-									Este foi o segundo site que eu fiz <b>trabalhando na MW Online como estagiário</b>, 
-
-									uma experiência surreal de aprendizado, onde criei o espaço do site no servidor, 
-
-									fiz o apontammento do domínio do cliente e criei o site WordPress do 0.
-
-								</p>
-
-								<a href="https://fincontconsultoria.com.br" class="btn-view-project" target="_blank">Ver
-
-									Projeto</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-				<!-- Single Portfolio Ends -->
-
-
-
-				<!-- Single Portfolio starts -->
-
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box institucional">
-
-					<div class="single-portfolio">
-
-						<a href="#popup-7" class="has-popup">
-
-							<img src="<?php echo DIRIMG.'nuttria.jpg' ?>" class="Portfolio Image" alt="Site Institucional Nuttria" />
-
-							<div class="single-portfolio-overlay">
-
-								<h2>Nuttria</h2>
-
-								<h3>Site Institucional</h3>
-
-							</div>
-
-						</a>
-
-					</div>
-
-					<div id="popup-7" class="popup-box mfp-fade mfp-hide">
-
-						<div class="content">
-
-							<div class="image">
-
-								<img src="<?php echo DIRIMG.'nuttria.jpg' ?>" alt="Site Institucional Nuttria">
-
-							</div>
-
-							<div class="desc">
-
-								<h4>Nuttria</h4>
-
-								<h5><i class="fa fa-folder"></i> Site Institucional</h5>
-
-								<p>
-
-									Este foi o primeiro site que recriei <b>trabalhando na MW Online como estagiário</b>, 
-
-									uma experiência muito boa de aprendizado, onde recriei recuperamos o site que estava invadido, 
-
-									recriei o site utilizando o Elementor, do jeito que o site estava antes de ser invadido (em Português e em Inglês).
-
-								</p>
-
-								<a href="https://nuttria.com" class="btn-view-project" target="_blank">Ver
-
-									Projeto</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-				<!-- Single Portfolio Ends -->
-
-
-
-				<!-- Single Portfolio starts -->
-
-				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box outros">
-
-					<div class="single-portfolio">
-
-						<a href="#popup-5" class="has-popup">
-
-							<img src="<?php echo DIRIMG.'github1.jpg' ?>" class="Portfolio Image"
-
-								alt="Outros projetos aqui no meu GitHub" />
-
-							<div class="single-portfolio-overlay">
-
-								<h2>Meu GitHub</h2>
-
-								<h3>Outros</h3>
-
-							</div>
-
-						</a>
-
-					</div>
-
-					<div id="popup-5" class="popup-box mfp-fade mfp-hide">
-
-						<div class="content">
-
-							<div class="image">
-
-								<img src="<?php echo DIRIMG.'github1.jpg' ?>" alt="Outros projetos aqui no meu GitHub">
-
-							</div>
-
-							<div class="desc">
-
-								<h4>Meu GitHub</h4>
-
-								<h5><i class="fa fa-folder"></i> Outros</h5>
-
-								<p>
-
-									Aqui estão os restantes dos projetos que eu já fiz e não publiquei.
-
-								</p>
-
-								<a href="https://github.com/BrookSK" class="btn-view-project" target="_blank">Ver
-
-									GitHub</a>
-
-							</div>
-
-						</div>
-
-					</div>
-
-				</div>
-
-				<!-- Single Portfolio Ends -->
-
-			</div>
-
-			<!--
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<div class="load-more-portfolio">
-
-						<a href="#">Load More Portfolio</a>
-
-					</div>
-
-				</div>
-
-			</div>
-
-			-->
-
-		</div>
-
-	</section>
-
-	<!-- Portfolio Section Ends -->
-
-
-
-	<!-- Our Team Section Starts -->
-
-	<!--
-
-	<section class="our-team">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					# Section title start
-
-					<div class="section-title">
-
-						<h2>Team Member</h2>
-
-						<p>Meet the team - Lorem ipsum dolor</p>
-
-					</div>
-
-					# Section title end
-
-				</div>
-
-			</div>
-
-			
-
-			<div class="row">
-
-				<div class="col-lg-3 col-md-6">
-
-					# Team single start
-
-					<div class="team-single wow fadeInUp" data-wow-delay="0.3s">
-
-						<figure>
-
-							<img src="images/team-1.jpg" alt="" />
-
-						</figure>
-
-						
-
-						<div class="team-info">
-
-							<h3>Madisin Payne</h3>
-
-							<p>Digital Producer</p>
-
-						</div>
-
-					</div>
-
-					# Team single end
-
-				</div>
-
-				
-
-				<div class="col-lg-3 col-md-6">
-
-					# Team single start
-
-					<div class="team-single wow fadeInUp" data-wow-delay="0.6s">
-
-						<figure>
-
-							<img src="images/team-2.jpg" alt="" />
-
-						</figure>
-
-						
-
-						<div class="team-info">
-
-							<h3>Madisin Payne</h3>
-
-							<p>SEO Analyst</p>
-
-						</div>
-
-					</div>
-
-					# Team single end
-
-				</div>
-
-				
-
-				<div class="col-lg-3 col-md-6">
-
-					# Team single start
-
-					<div class="team-single wow fadeInUp" data-wow-delay="0.9s">
-
-						<figure>
-
-							<img src="images/team-3.jpg" alt="" />
-
-						</figure>
-
-						
-
-						<div class="team-info">
-
-							<h3>Madisin Payne</h3>
-
-							<p>Web Developer</p>
-
-						</div>
-
-					</div>
-
-					# Team single end
-
-				</div>
-
-				
-
-				<div class="col-lg-3 col-md-6">
-
-					# Team single start
-
-					<div class="team-single wow fadeInUp" data-wow-delay="1.2s">
-
-						<figure>
-
-							<img src="images/team-4.jpg" alt="" />
-
-						</figure>
-
-						
-
-						<div class="team-info">
-
-							<h3>Madisin Payne</h3>
-
-							<p>HR Manager</p>
-
-						</div>
-
-					</div>
-
-					# Team single end
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</section>
-
-	-->
-
-	<!-- Our Team Section Ends -->
-
-	<!-- Pricing Section Starts -->
-
-	<section class="pricing" id="pricing">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<!-- Section title start -->
-
-					<div class="section-title">
-
-						<h2>Melhores Preços</h2>
-
-						<p>Aqui estão alguns dos melhores preços que eu ofereço</p>
-
-					</div>
-
-					<!-- Section title end -->
-
-				</div>
-
-			</div>
-
-
-
-			<div class="row">
-
-				<div class="col-md-4">
-
-					<!-- Pricing single start -->
-
-					<div class="pricing-single wow fadeInUp" data-wow-delay="0.3s">
-
-						<div class="pricing-header">
-
-							<div class="icon-box">
-
-								<i class="flaticon-settings"></i>
-
-							</div>
-
-							<h3>Site One Page</h3>
-
-							<p>R$450</p>
-
-						</div>
-
-
-
-						<div class="pricing-body">
-
-							<ul>
-
-								<li>Home/Blocos e Elementos Principais</li>
-
-								<li>Layout Responsivo</li>
-
-								<li>Painel Administrativo na plataforma Wordpress</li>
-
-								<li>Ferramentas de SEO (melhorias de exibição na pesquisa no Google)</li>
-
-								<li>Adequação a LGPD (avisos de cookies, termos de uso e política de privacidade)</li>
-
-								<li>Plugins e Botões de direcionamento WhatsApp</li>
-
-								<li>Treinamento do Painel Administrativo Wordpress</li>
-
-								<li>1 mês de Hospedagem com manutenção semanal</li>
-
-								<li>Domínio personalizado (<b>pagar novamente após 1 ano</b>)</li>
-
-								<li>Prazo: 10 dias após entrega dos materiais</li>
-
-							</ul>
-
-						</div>
-
-
-
-						<div class="pricing-footer">
-
-							<a href="https://wa.me/5517991190528?text=Ol%C3%A1%2C+quero+um+or%C3%A7amento+personalizado+para+o+meu+site+One+Page"
-
-								class="btn-buynow" target="_blank">Solicitar Orçamento</a>
-
-						</div>
-
-					</div>
-
-					<!-- Pricing single end -->
-
-				</div>
-
-
-
-				<div class="col-md-4">
-
-					<!-- Pricing single start -->
-
-					<div class="pricing-single wow fadeInUp" data-wow-delay="0.6s">
-
-						<div class="pricing-header">
-
-							<div class="icon-box">
-
-								<i class="flaticon-award"></i>
-
-							</div>
-
-							<h3>Site Institucional</h3>
-
-							<p>R$700</p>
-
-						</div>
-
-
-
-						<div class="pricing-body">
-
-							<ul>
-
-								<li>Home/Blocos e Elementos Principais</li>
-
-								<li>Página para secção personalizada(Blog, Galeria, etc...)</li>
-
-								<li>Layout Responsivo</li>
-
-								<li>Painel Administrativo na plataforma Wordpress</li>
-
-								<li>Ferramentas de SEO (melhorias de exibição na pesquisa no Google)</li>
-
-								<li>Adequação a LGPD (avisos de cookies, termos de uso e política de privacidade)</li>
-
-								<li>Plugins e Botões de direcionamento WhatsApp</li>
-
-								<li>Treinamento do Painel Administrativo Wordpress</li>
-
-								<li>1 mês de Hospedagem com manutenção semanal</li>
-
-								<li>Domínio personalizado (<b>pagar novamente após 1 ano</b>)</li>
-
-								<li>Prazo: 15 dias após entrega dos materiais</li>
-
-							</ul>
-
-						</div>
-
-
-
-						<div class="pricing-footer">
-
-							<a href="https://wa.me/5517991190528?text=Ol%C3%A1%2C+quero+um+or%C3%A7amento+personalizado+para+o+meu+site+Institucional"
-
-								class="btn-buynow" target="_blank">Solicitar Orçamento</a>
-
-						</div>
-
-					</div>
-
-					<!-- Pricing single end -->
-
-				</div>
-
-
-
-				<div class="col-md-4">
-
-					<!-- Pricing single start -->
-
-					<div class="pricing-single wow fadeInUp" data-wow-delay="0.9s">
-
-						<div class="pricing-header">
-
-							<div class="icon-box">
-
-								<i class="flaticon-trophy"></i>
-
-							</div>
-
-							<h3>Site E-Commerce - Nuvemshop</h3>
-
-							<p>R$1.400</p>
-
-						</div>
-
-
-
-						<div class="pricing-body">
-
-							<ul>
-
-								<li>Home/Blocos e Elementos Principais</li>
-
-								<li>Página de Produtos</li>
-
-								<li>Página de Contato</li>
-
-								<li>Layout Responsivo</li>
-
-								<li>Métodos de Pagamento Personalizados</li>
-
-								<li>Painel Administrativo na plataforma Nuvemshop</li>
-
-								<li>Ferramentas de SEO (melhorias de exibição na pesquisa no Google)</li>
-
-								<li>Adequação a LGPD (avisos de cookies, termos de uso e política de privacidade)</li>
-
-								<li>Plugins e Botões de direcionamento WhatsApp</li>
-
-								<li>Treinamento do Painel Administrativo Nuvemshop</li>
-
-								<li>Plano escolhido da Nuvemshop + 1 mês de manutenção semanal Gratuita</li>
-
-								<li>Domínio personalizado (<b>pagar novamente após 1 ano</b>)</li>
-
-								<li>Prazo: 20 dias após entrega dos materiais</li>
-
-							</ul>
-
-						</div>
-
-
-
-						<div class="pricing-footer">
-
-							<a href="https://wa.me/5517991190528?text=Ol%C3%A1%2C+quero+um+or%C3%A7amento+personalizado+para+o+meu+site+E-Commerce"
-
-								class="btn-buynow" target="_blank">Solicitar Orçamento</a>
-
-						</div>
-
-					</div>
-
-					<!-- Pricing single end -->
-
-				</div>
-
-			</div>
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<div class="load-more-portfolio">
-
-						<a href="<?PHP echo DIRPAGE.'planos' ?>">Ver Mais Detalhes</a>
-
-					</div>
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</section>
-
-	<!-- Pricing Section Ends -->
-
-	<!--
-
-	# Testimonial Section stars
-
-	<section class="testimonials">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					# Section title start
-
-					<div class="section-title">
-
-						<h2>Testimonials</h2>
-
-						<p>Happy Clients Says - Lorem ipsum dolor</p>
-
-					</div>
-
-					# Section title end
-
-				</div>
-
-			</div>
-
-			
-
-			<div class="row">
-
-				<div class="col-md-8 offset-md-2">	
-
-					<div class="swiper-container testimonial-slider">
-
-						<div class="swiper-wrapper">
-
-							# Testimonial Slide start
-
-							<div class="swiper-slide">
-
-								<div class="testimonial-single">
-
-									<div class="testimonial-header">
-
-										<figure>
-
-											<img src="images/author-1.jpg" alt="" />
-
-										</figure>
-
-										
-
-										<h3>John B. Willims</h3>
-
-										<h4>Founder at Adis</h4>
-
-									</div>
-
-									
-
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
-
-								</div>
-
-							</div>
-
-							# Testimonial Slide end
-
-							
-
-							# Testimonial Slide start
-
-							<div class="swiper-slide">
-
-								<div class="testimonial-single">
-
-									<div class="testimonial-header">
-
-										<figure>
-
-											<img src="images/author-2.jpg" alt="" />
-
-										</figure>
-
-										
-
-										<h3>John B. Willims</h3>
-
-										<h4>Founder at Adis</h4>
-
-									</div>
-
-									
-
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
-
-								</div>
-
-							</div>
-
-							# Testimonial Slide end
-
-							
-
-							# Testimonial Slide start
-
-							<div class="swiper-slide">
-
-								<div class="testimonial-single">
-
-									<div class="testimonial-header">
-
-										<figure>
-
-											<img src="images/author-3.jpg" alt="" />
-
-										</figure>
-
-										
-
-										<h3>John B. Willims</h3>
-
-										<h4>Founder at Adis</h4>
-
-									</div>
-
-									
-
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
-
-								</div>
-
-							</div>
-
-							# Testimonial Slide end
-
-						</div>
-
-						
-
-						<div class="testimonial-pagination"></div>
-
-					</div>
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</section>
-
-	-->
-
-	<!-- Testimonial Section ends -->
-
-
-
-	<!-- Brand Section Starts -->
-
-	<div class="brand-sponser">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<div class="swiper-container brand-slider">
-
-						<div class="swiper-wrapper">
-
-							<!-- Brand slide start - Photos Format 186px x 50px -->
-
-							<div class="swiper-slide">
-
-								<div class="brand-slide">
-
-									<img src="<?php echo DIRIMG.'fundacao.png' ?>" alt="Bradesco Escola Virtual" />
-
-								</div>
-
-							</div>
-
-							<!-- Brand slide end -->
-
-
-
-							<!-- Brand slide start -->
-
-							<div class="swiper-slide">
-
-								<div class="brand-slide">
-
-									<img src="<?php echo DIRIMG.'brand-2.png' ?>" alt="WooCommerce" />
-
-								</div>
-
-							</div>
-
-							<!-- Brand slide end -->
-
-
-
-							<!-- Brand slide start -->
-
-							<div class="swiper-slide">
-
-								<div class="brand-slide">
-
-									<img src="<?php echo DIRIMG.'etec.png' ?>" alt="ETEC Logo" />
-
-								</div>
-
-							</div>
-
-							<!-- Brand slide end -->
-
-
-
-							<!-- Brand slide start -->
-
-							<div class="swiper-slide">
-
-								<div class="brand-slide">
-
-									<img src="<?php echo DIRIMG.'unip.png' ?>" alt="UNIP EAD Logo" />
-
-								</div>
-
-							</div>
-
-							<!-- Brand slide end -->
-
-
-
-							<!-- Brand slide start -->
-
-							<div class="swiper-slide">
-
-								<div class="brand-slide">
-
-									<img src="<?php echo DIRIMG.'sebrae.png' ?>" alt="SEBRAE SP Logo" />
-
-								</div>
-
-							</div>
-
-							<!-- Brand slide end -->
-
-
-
-							<!-- Brand slide start -->
-
-							<div class="swiper-slide">
-
-								<div class="brand-slide">
-
-									<img src="<?php echo DIRIMG.'curso.png' ?>" alt="Curso em Vídeo Logo" />
-
-								</div>
-
-							</div>
-
-							<!-- Brand slide end -->
-
-						</div>
-
-					</div>
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</div>
-
-	<!-- Brand Section Ends -->
-
-
-
-	<!-- Contact us Section Starts -->
-
-	<section class="contactus" id="contact">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-md-12">
-
-					<!-- Section title start -->
-
-					<div class="section-title">
-
-						<h2>Entre em Contato</h2>
-
-						<p>Sinta-se livre para entrar em contato comigo</p>
-
-					</div>
-
-					<!-- Section title end -->
-
-				</div>
-
-			</div>
-
-
-
-			<div class="row">
-
-				<div class="col-md-8 offset-md-2">
-
-					<!-- Contact Form start -->
-
-					<div class="contact-form">
-
-						<form id="formContact1" action="https://formsubmit.co/ajax/lucasrvacari9@gmail.com"
-
-							method="post" data-form="formContact1">
-
-							<div class="row">
-
-								<div class="form-group col-md-6 col-sm-6">
-
-									<input type="text" class="form-control" placeholder="Seu nome" name="nome" id="nome"
-
-										required />
-
-								</div>
-
-
-
-								<div class="form-group col-md-6 col-sm-6">
-
-									<input type="email" class="form-control" placeholder="E-mail" name="email"
-
-										id="email" required />
-
-								</div>
-
-
-
-								<div class="form-group col-md-12 col-sm-12">
-
-									<textarea rows="4" class="form-control" placeholder="Conte-me como posso ajuda-lo"
-
-										name="mensagem" id="mensagem" required></textarea>
-
-								</div>
-
-
-
-								<div class="col-md-12 col-sm-12 text-center">
-
-									<button type="submit" class="btn-contact" data-button="enviar">Enviar</button>
-
-								</div>
-
-							</div>
-
-						</form>
-
-						<div id="formMessages"></div>
-
-						<script>
-
-							class FormSubmitOne {
-
-								constructor(settings) {
-
-									this.settings = settings;
-
-									this.form = document.querySelector(settings.form);
-
-									this.formButton = document.querySelector(settings.button);
-
-									if (this.form) {
-
-										this.url = this.form.getAttribute("action");
-
-									}
-
-									this.sendForm = this.sendForm.bind(this);
-
-								}
-
-								displaySuccess() {
-
-									// Remover as mensagens de sucesso ou erro anteriores
-
-									document.getElementById("formMessages").innerHTML = "";
-
-
-
-									const successMessage = document.createElement("div");
-
-									successMessage.className = "mensagem";
-
-									successMessage.textContent = "Formulário enviado com sucesso!";
-
-									document.getElementById("formMessages").appendChild(successMessage);
-
-
-
-									// Limpar os campos do formulário após o envio bem-sucedido
-
-									const fields = this.form.querySelectorAll("[name]");
-
-									fields.forEach((field) => {
-
-										field.value = "";
-
-									});
-
-
-
-									// Reverter o botão de "Enviando..." para "Enviar"
-
-									this.formButton.disabled = false;
-
-									this.formButton.innerText = "Enviar";
-
-								}
-
-								displayError() {
-
-									// Remover as mensagens de sucesso ou erro anteriores
-
-									document.getElementById("formMessages").innerHTML = "";
-
-
-
-									const errorMessage = document.createElement("div");
-
-									errorMessage.className = "mensagem";
-
-									errorMessage.textContent = "Não foi possível enviar sua mensagem!";
-
-									document.getElementById("formMessages").appendChild(errorMessage);
-
-
-
-									// Reverter o botão de "Enviando..." para "Enviar"
-
-									this.formButton.disabled = false;
-
-									this.formButton.innerText = "Enviar";
-
-								}
-
-								getFormObject() {
-
-									const formObject = {};
-
-									const fields = this.form.querySelectorAll("[name]");
-
-									fields.forEach((field) => {
-
-										formObject[field.getAttribute("name")] = field.value;
-
-									});
-
-									return formObject;
-
-								}
-
-								onSubmission(event) {
-
-									event.preventDefault();
-
-									event.target.disabled = true;
-
-									event.target.innerText = "Enviando...";
-
-								}
-
-								async sendForm(event) {
-
-									try {
-
-										this.onSubmission(event);
-
-										await fetch(this.url, {
-
-											method: "POST",
-
-											headers: {
-
-												"Content-Type": "application/json",
-
-												Accept: "application/json",
-
-											},
-
-											body: JSON.stringify(this.getFormObject()),
-
-										});
-
-										this.displaySuccess();
-
-									} catch (error) {
-
-										this.displayError();
-
-										throw new Error(error);
-
-									}
-
-								}
-
-								init() {
-
-									if (this.form) this.formButton.addEventListener("click", this.sendForm);
-
-									return this;
-
-								}
-
-							}
-
-
-
-							const formSubmitOne = new FormSubmitOne({
-
-								form: "[data-form]",
-
-								button: "[data-button]",
-
-								success: "<div class='mensagem' id='mensagemEnviada'>Formulário enviado com sucesso!</div>",
-
-								error: "<div class='mensagem' id='mensagemEnviada'>Não foi possível enviar sua mensagem!</div>",
-
-							});
-
-
-
-							formSubmitOne.init();
-
-						</script>
-
-					</div>
-
-					<!-- Contact Form end -->
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</section>
-
-	<!-- Contact us Section Ends -->
-
-
-
-	<!-- Contact Information Section Starts -->
-
-	<div class="contact-information">
-
-		<div class="container">
-
-			<div class="row">
-
-				<div class="col-lg-4">
-
-					<!-- Contact info single start -->
-
-					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.3s">
-
-						<h3>Endereço</h3>
-
-						<p>Mirassol - São Paulo</p>
-
-					</div>
-
-					<!-- Contact info single end -->
-
-				</div>
-
-
-
-				<div class="col-lg-4">
-
-					<!-- Contact info single start -->
-
-					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.6s">
-
-						<h3>Telefone / WhatsApp</h3>
-
-						<p>(17) 99119-0528</p>
-
-					</div>
-
-					<!-- Contact info single end -->
-
-				</div>
-
-
-
-				<div class="col-lg-4">
-
-					<!-- Contact info single start -->
-
-					<div class="contact-info-single wow fadeInUp" data-wow-delay="0.9s">
-
-						<h3>E-mail</h3>
-
-						<p>lucasrvacari9@gmail.com</p>
-
-					</div>
-
-					<!-- Contact info single end -->
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</div>
-
-	<!-- Contact Information Section Ends -->
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 pt-2 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+          <h1>Easy Marketing Solutions For Your Business</h1>
+          <ul>
+            <li><i class="ri-check-line"></i> Dolorem ratione dolorum</li>
+            <li><i class="ri-check-line"></i> Quo nihil natus ea non pariatur optio occaecati</li>
+            <li><i class="ri-check-line"></i> Duis aute irure dolor in reprehenderit in</li>
+          </ul>
+          <div class="mt-3">
+            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            <a href="" class="btn-get-quote">Request a Quote</a>
+          </div>
+        </div>
+        <div class="col-lg-6 order-1 order-lg-2 hero-img">
+          <img src="<?php echo DIRIMG.'hero-img.png' ?>" class="img-fluid" alt="">
+        </div>
+      </div>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <h2>Eum ipsam laborum deleniti velitena</h2>
+            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assum perenda sruen jonee trave</h3>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+            <ul>
+              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequa</li>
+              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
+              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in</li>
+            </ul>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us">
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-4">
+            <div class="box">
+              <span>01</span>
+              <h4>Lorem Ipsum</h4>
+              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="box">
+              <span>02</span>
+              <h4>Repellat Nihil</h4>
+              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="box">
+              <span>03</span>
+              <h4> Ad ad velit qui</h4>
+              <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
+
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts section-bg">
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="count-box">
+              <i class="bi bi-emoji-smile"></i>
+              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Happy Clients</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
+            <div class="count-box">
+              <i class="bi bi-journal-richtext"></i>
+              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Projects</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="count-box">
+              <i class="bi bi-headset"></i>
+              <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Hours Of Support</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="count-box">
+              <i class="bi bi-people"></i>
+              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Hard Workers</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Counts Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+          <div class="content col-xl-5 d-flex flex-column justify-content-center">
+            <img src="<?php echo DIRIMG.'services.png' ?>" class="img-fluid" alt="">
+          </div>
+          <div class="col-xl-7">
+            <div class="icon-boxes d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-lg-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                  <div class="icon-box iconbox-blue">
+                    <div class="icon">
+                      <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,521.0016835830174C376.1290562159157,517.8887921683347,466.0731472004068,529.7835943286574,510.70327084640275,468.03025145048787C554.3714126377745,407.6079735673963,508.03601936045806,328.9844924480964,491.2728898941984,256.3432110539036C474.5976632858925,184.082847569629,479.9380746630129,96.60480741107993,416.23090153303,58.64404602377083C348.86323505073057,18.502131276798302,261.93793281208167,40.57373210992963,193.5410806939664,78.93577620505333C130.42746243093433,114.334589627462,98.30271207620316,179.96522072025542,76.75703585869454,249.04625023123273C51.97151888228291,328.5150500222984,13.704378332031375,421.85034740162234,66.52175969318436,486.19268352777647C119.04800174914682,550.1803526380478,217.28368757567262,524.383925680826,300,521.0016835830174"></path>
+                      </svg>
+                      <i class="bx bxl-dribbble"></i>
+                    </div>
+                    <h4><a href="">Lorem Ipsum</a></h4>
+                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                  </div>
+                </div>
+
+                <div class="col-lg-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="200">
+                  <div class="icon-box iconbox-orange ">
+                    <div class="icon">
+                      <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,582.0697525312426C382.5290701553225,586.8405444964366,449.9789794690241,525.3245884688669,502.5850820975895,461.55621195738473C556.606425686781,396.0723002908107,615.8543463187945,314.28637112970534,586.6730223649479,234.56875336149918C558.9533121215079,158.8439757836574,454.9685369536778,164.00468322053177,381.49747125262974,130.76875717737553C312.15926192815925,99.40240125094834,248.97055460311594,18.661163978235184,179.8680185752513,50.54337015887873C110.5421016452524,82.52863877960104,119.82277516462835,180.83849132639028,109.12597500060166,256.43424936330496C100.08760227029461,320.3096726198365,92.17705696193138,384.0621239912766,124.79988738764834,439.7174275375508C164.83382741302287,508.01625554203684,220.96474134820875,577.5009287672846,300,582.0697525312426"></path>
+                      </svg>
+                      <i class="bx bx-file"></i>
+                    </div>
+                    <h4><a href="">Sed Perspiciatis</a></h4>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                  </div>
+                </div>
+
+                <div class="col-lg-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+                  <div class="icon-box iconbox-pink">
+                    <div class="icon">
+                      <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,541.5067337569781C382.14930387511276,545.0595476570109,479.8736841581634,548.3450877840088,526.4010558755058,480.5488172755941C571.5218469581645,414.80211281144784,517.5187510058486,332.0715597781072,496.52539010469104,255.14436215662573C477.37192572678356,184.95920475031193,473.57363656557914,105.61284051026155,413.0603344069578,65.22779650032875C343.27470386102294,18.654635553484475,251.2091493199835,5.337323636656869,175.0934190732945,40.62881213300186C97.87086631185822,76.43348514350839,51.98124368387456,156.15599469081315,36.44837278890362,239.84606092416172C21.716077023791087,319.22268207091537,43.775223500013084,401.1760424656574,96.891909868211,461.97329694683043C147.22146801428983,519.5804099606455,223.5754009179313,538.201503339737,300,541.5067337569781"></path>
+                      </svg>
+                      <i class="bx bx-tachometer"></i>
+                    </div>
+                    <h4><a href="">Magni Dolores</a></h4>
+                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                  </div>
+                </div>
+
+                <div class="col-lg-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+                  <div class="icon-box iconbox-teal">
+                    <div class="icon">
+                      <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,503.46388370962813C374.79870501325706,506.71871716319447,464.8034551963731,527.1746412648533,510.4981551193396,467.86667711651364C555.9287308511215,408.9015244558933,512.6030010748507,327.5744911775523,490.211057578863,256.5855673507754C471.097692560561,195.9906835881958,447.69079081568157,138.11976852964426,395.19560036434837,102.3242989838813C329.3053358748298,57.3949838291264,248.02791733380457,8.279543830951368,175.87071277845988,42.242879143198664C103.41431057327972,76.34704239035025,93.79494320519305,170.9812938413882,81.28167332365135,250.07896920659033C70.17666984294237,320.27484674793965,64.84698225790005,396.69656628748305,111.28512138212992,450.4950937839243C156.20124167950087,502.5303643271138,231.32542653798444,500.4755392045468,300,503.46388370962813"></path>
+                      </svg>
+                      <i class="bx bx-layer"></i>
+                    </div>
+                    <h4><a href="">Nemo Enim</a></h4>
+                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4">
+            <div class="icon-box">
+              <i class="ri-store-line" style="color: #ffbb2c;"></i>
+              <h3><a href="">Lorem Ipsum</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
+              <h3><a href="">Dolor Sitema</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
+            <div class="icon-box">
+              <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
+              <h3><a href="">Sed perspiciatis</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
+              <h3><a href="">Magni Dolores</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-database-2-line" style="color: #47aeff;"></i>
+              <h3><a href="">Nemo Enim</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-gradienter-line" style="color: #ffa76e;"></i>
+              <h3><a href="">Eiusmod Tempor</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-file-list-3-line" style="color: #11dbcf;"></i>
+              <h3><a href="">Midela Teren</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-price-tag-2-line" style="color: #4233ff;"></i>
+              <h3><a href="">Pira Neve</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-anchor-line" style="color: #b2904f;"></i>
+              <h3><a href="">Dirada Pack</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-disc-line" style="color: #b20969;"></i>
+              <h3><a href="">Moton Ideal</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-base-station-line" style="color: #ff5828;"></i>
+              <h3><a href="">Verdo Park</a></h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 mt-4">
+            <div class="icon-box">
+              <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
+              <h3><a href="">Flavor Nivelanda</a></h3>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Features Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-app">App</li>
+              <li data-filter=".filter-card">Card</li>
+              <li data-filter=".filter-web">Web</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-1.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 1</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-1.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-2.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-2.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-3.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 2</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-3.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-4.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 2</h4>
+                <p>Card</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-4.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-5.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 2</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-5.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-6.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 3</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-6.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-7.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 1</h4>
+                <p>Card</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-7.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-8.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 3</h4>
+                <p>Card</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-8.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="<?php echo DIRIMG.'portfolio-9.jpg' ?>" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo DIRIMG.'portfolio-9.jpg' ?>" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Team</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="<?php echo DIRIMG.'team-1.jpg' ?>" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Walter White</h4>
+                <span>Chief Executive Officer</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="<?php echo DIRIMG.'team-2.jpg' ?>" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Sarah Jhonson</h4>
+                <span>Product Manager</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="<?php echo DIRIMG.'team-3.jpg' ?>" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>William Anderson</h4>
+                <span>CTO</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <div class="member-img">
+                <img src="<?php echo DIRIMG.'team-4.jpg' ?>" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Amanda Jepson</h4>
+                <span>Accountant</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+    <!-- ======= Pricing Section ======= -->
+    <section id="pricing" class="pricing">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Pricing</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row no-gutters">
+
+          <div class="col-lg-4 box">
+            <h3>Free</h3>
+            <h4>$0<span>per month</span></h4>
+            <ul>
+              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
+              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
+              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
+              <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span></li>
+              <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+            </ul>
+            <a href="#" class="btn-buy">Get Started</a>
+          </div>
+
+          <div class="col-lg-4 box featured">
+            <h3>Business</h3>
+            <h4>$29<span>per month</span></h4>
+            <ul>
+              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
+              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
+              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
+              <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
+              <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
+            </ul>
+            <a href="#" class="btn-buy">Get Started</a>
+          </div>
+
+          <div class="col-lg-4 box">
+            <h3>Developer</h3>
+            <h4>$49<span>per month</span></h4>
+            <ul>
+              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
+              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
+              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
+              <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
+              <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
+            </ul>
+            <a href="#" class="btn-buy">Get Started</a>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Pricing Section -->
+
+    <!-- ======= Frequently Asked Questions Section ======= -->
+    <section id="faq" class="faq">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Frequently Asked Questions</h2>
+        </div>
+
+        <ul class="faq-list">
+
+          <li>
+            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq2" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq3" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq5" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq6" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+              </p>
+            </div>
+          </li>
+
+        </ul>
+
+      </div>
+    </section><!-- End Frequently Asked Questions Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-6">
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="info-box">
+                  <i class="bx bx-map"></i>
+                  <h3>Our Address</h3>
+                  <p>A108 Adam Street, New York, NY 535022</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4">
+                  <i class="bx bx-envelope"></i>
+                  <h3>Email Us</h3>
+                  <p>info@example.com<br>contact@example.com</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4">
+                  <i class="bx bx-phone-call"></i>
+                  <h3>Call Us</h3>
+                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->

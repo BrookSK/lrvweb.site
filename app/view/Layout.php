@@ -14,7 +14,7 @@
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4571058039731830"
      crossorigin="anonymous"></script>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<meta name="author" content="Lucas Rodrigues Vacari">
 	<meta name="description" content="<?php echo $this->getDescription(); ?>">
 	<meta name="keywords" content="<?php echo $this->getKeywords(); ?>">
@@ -24,16 +24,17 @@
 	</title>
 	<!-- Favicon -->
 	<link rel="icon" href="<?php echo DIRIMG . 'icon.png' ?>">
-	<!-- Google Fonts css-->
-	<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash%7CRoboto:300,400,400i,500,500i,700,700i,900"
-		rel="stylesheet">
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 	<!-- Bootstrap css -->
 	<link href="<?php echo DIRCSS . 'bootstrap.min.css' ?>" rel="stylesheet" media="screen">
+	<link href="<?php echo DIRCSS . 'bootstrap-icons.css' ?>" rel="stylesheet" media="screen">
 	<!-- Font Awesome icon css-->
 	<link href="<?php echo DIRCSS . 'font-awesome.min.css' ?>" rel="stylesheet" media="screen">
 	<link href="<?php echo DIRCSS . 'flaticon.css' ?>" rel="stylesheet" media="screen">
 	<!-- Swiper's CSS -->
 	<link rel="stylesheet" href="<?php echo DIRCSS . 'swiper.min.css' ?>">
+	<link rel="stylesheet" href="<?php echo DIRCSS . 'swiper-bundle.min.css' ?>">
 	<!-- Animated css -->
 	<link href="<?php echo DIRCSS . 'animate.css' ?>" rel="stylesheet">
 	<!-- Magnific Popup CSS -->
@@ -44,34 +45,26 @@
 	<link rel="stylesheet" href="<?php echo DIRCSS . 'slicknav.css' ?>">
 	<!-- Main custom css -->
 	<link href="<?php echo DIRCSS . 'custom.css' ?>" rel="stylesheet" media="screen">
+	<link href="<?php echo DIRCSS . 'style.css' ?>" rel="stylesheet" media="screen">
+	<!-- Boxicons css -->
+	<link href="<?php echo DIRCSS . 'boxicons.min.css' ?>" rel="stylesheet" media="screen">
+	<!-- Glightbox css -->
+	<link href="<?php echo DIRCSS . 'glightbox.min.css' ?>" rel="stylesheet" media="screen">
+	<!-- Remixicons css -->
+	<link href="<?php echo DIRCSS . 'remixicon.css' ?>" rel="stylesheet" media="screen">
 
 	<!-- Head -->
 	<?php echo $this->addHead(); ?>
 </head>
 
-<body data-spy="scroll" data-target="#main-navbar" data-offset="75">
-
-	<style>
-		img[alt="www.000webhost.com"]{
-			display: none !important;
-		}
-	</style>
-
-	<!-- Preloader starts -->
-	<div class="preloader">
-		<div class="loader">
-			<div class="diamond"></div>
-			<div class="diamond"></div>
-			<div class="diamond"></div>
-		</div>
-	</div>
-	<!-- Preloader Ends -->
-
+<body>
 	<!-- Header Section Start -->
-	<header class="header">
+	<header id="header" class="fixed-top ">
+		<div class="container d-flex align-items-center justify-content-between">
 
-		<?php echo $this->addHeader(); ?>
-
+			<?php echo $this->addHeader(); ?>
+			
+		</div>
 	</header>
 	<!-- Header Section End -->
 

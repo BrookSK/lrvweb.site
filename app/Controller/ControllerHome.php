@@ -6,9 +6,9 @@ use Src\Interfaces\InterfaceView;
 
 class ControllerHome extends ClassRender implements InterfaceView{
     public function __construct(){
-        $this->setTitle("Portfolio Lucas Vacari");
-        $this->setDescription("O projeto LRV Web tem o objetivo de divulgar o portfólio de Lucas Rodrigues Vacari, trazendo projetos realizados por ele, suas contribuições e interesses. Além disso, trazer os preços e orçamentos dados por ele para a criação de um site profissional.");
-        $this->setKeywords("portfolio, lucas, vacari, planos, precos, hospedagem, site, lrvweb, lrv, web, desenvolvimento, criacao, sites, ecommerce");
+        $this->setTitle("LRV Web - Sites, Lojas Virtuais e Marketing");
+        $this->setDescription("Você imagina, nós construímos. Na LRV Web, transformamos ideias em experiências digitais extraordinárias. Seja um site elegante, uma loja online vibrante ou uma presença única na web, estamos aqui para concretizar sua visão.");
+        $this->setKeywords("portfolio, lucas, vacari, planos, precos, hospedagem, site, lrvweb, lrv, web, desenvolvimento, criacao, sites, ecommerce, marketing, marcas, memoria");
         $this->setDir("home");
         $this->renderLayout();
     }

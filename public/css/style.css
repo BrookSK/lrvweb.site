@@ -514,6 +514,40 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Msanut Sections
+--------------------------------------------------------------*/
+#manut .btn-get-started {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  padding: 8px 30px 9px 30px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+  transition: 0.5s;
+  border-radius: 50px;
+}
+
+#manut .btn-get-started {
+  background: #5a5af3;
+  color: #fff;
+  border: 2px solid #5a5af3;
+  margin-right: 10px;
+}
+
+#manut .btn-get-started:hover {
+  background: #7272f5;
+  border-color: #7272f5;
+}
+
+#manut .btn-get-started {
+  padding-left: 18px;
+  padding-right: 18px;
+  font-size: 14px;
+}
+
+/*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {

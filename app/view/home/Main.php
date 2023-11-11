@@ -379,10 +379,10 @@
   <section id="manut" class="section-bg">
     <div class="container">
       <div class="row">
-        <div class="col-xl-6 order-2 order-lg-1">
+        <div class="col-xl-6 order-1 order-lg-1">
           <h2>Precisando de manutenção, revisão ou recuperação do seu site?</h2>
         </div>
-        <div class="col-xl-6 pt-4 pt-lg-0 order-1 order-lg-2 content">
+        <div class="col-xl-6 pt-4 pt-lg-0 order-2 order-lg-2 content">
           <p>Mantemos seu site atualizado, seguro e 100% funcional.</p>
           <div class="mt-3">
             <a href="#" class="btn-get-started scrollto">Veja Nossos Planos Mensais</a>

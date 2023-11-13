@@ -550,7 +550,7 @@
     </div>
   </section><!-- End Portfolio Section -->
 
-  <!-- ======= Team Section ======= -->
+  <!-- ======= Team Section ======= 
   <section id="team" class="team section-bg">
     <div class="container">
 
@@ -566,7 +566,7 @@
         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div class="member">
             <div class="member-img">
-              <img src="<?php echo DIRIMG . 'team-1.jpg' ?>" class="img-fluid" alt="">
+              <img src="<?php //echo DIRIMG . 'team-1.jpg' ?>" class="img-fluid" alt="">
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -584,7 +584,7 @@
         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div class="member">
             <div class="member-img">
-              <img src="<?php echo DIRIMG . 'team-2.jpg' ?>" class="img-fluid" alt="">
+              <img src="<?php //echo DIRIMG . 'team-2.jpg' ?>" class="img-fluid" alt="">
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -602,7 +602,7 @@
         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div class="member">
             <div class="member-img">
-              <img src="<?php echo DIRIMG . 'team-3.jpg' ?>" class="img-fluid" alt="">
+              <img src="<?php //echo DIRIMG . 'team-3.jpg' ?>" class="img-fluid" alt="">
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -620,7 +620,7 @@
         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div class="member">
             <div class="member-img">
-              <img src="<?php echo DIRIMG . 'team-4.jpg' ?>" class="img-fluid" alt="">
+              <img src="<?php //echo DIRIMG . 'team-4.jpg' ?>" class="img-fluid" alt="">
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -638,10 +638,10 @@
       </div>
 
     </div>
-  </section><!-- End Team Section -->
+  </section>// End Team Section -->
 
   <!-- ======= Pricing Section ======= -->
-  <section id="pricing" class="pricing">
+  <section id="pricing" class="pricing section-bg">
     <div class="container">
 
       <div class="section-title">

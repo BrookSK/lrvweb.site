@@ -1,6 +1,9 @@
 # lrvweb
 Site_LRVWeb_MVC
 
+PHP Version min in local: 8.0.26
+PHP Version min in server: 8.1
+
 Estruct:
 ```
 -app
